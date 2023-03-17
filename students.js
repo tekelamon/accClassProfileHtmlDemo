@@ -12,6 +12,13 @@ export const data = [
         location: 'Rancho Cucamonga, CA',
         html:'tekeByas.html',
         imagePath:'images/tekeByas.jpg'
+     },{  
+
+        firstName:'Bonnie',
+        lastName:'Lee',
+        location: 'Fontana, CA',
+        html:'bonnieLee.html',
+        imagePath:'images/bonnieLee.jpg'
     },
 ]
 
